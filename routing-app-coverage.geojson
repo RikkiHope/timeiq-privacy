@@ -1,0 +1,65 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "United Kingdom Routing Coverage",
+        "description": "Coverage area for England, Scotland, Wales, and Northern Ireland."
+      },
+      "geometry": {
+        "type": "MultiPolygon",
+        "coordinates": [
+          [
+            [
+              [
+                -8.65,
+                49.8
+              ],
+              [
+                1.9,
+                49.8
+              ],
+              [
+                1.9,
+                60.95
+              ],
+              [
+                -8.65,
+                60.95
+              ],
+              [
+                -8.65,
+                49.8
+              ]
+            ]
+          ],
+          [
+            [
+              [
+                -8.25,
+                54.0
+              ],
+              [
+                -5.35,
+                54.0
+              ],
+              [
+                -5.35,
+                55.35
+              ],
+              [
+                -8.25,
+                55.35
+              ],
+              [
+                -8.25,
+                54.0
+              ]
+            ]
+          ]
+        ]
+      }
+    }
+  ]
+}
